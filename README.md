@@ -41,7 +41,7 @@ e me preparar para vagas de **estágio ou júnior**.
 ---
 
 ### 🟢 Semana 2 – Programação Orientada a Objetos
-- [ ] Classes e objetos
+- ✅ Classes e objetos
 - [ ] Encapsulamento
 - [ ] Herança
 - [ ] Polimorfismo
