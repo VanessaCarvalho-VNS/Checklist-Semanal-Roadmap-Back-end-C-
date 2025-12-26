@@ -33,7 +33,7 @@ e me preparar para vagas de **estágio ou júnior**.
 ### 🟢 Semana 1 – Fundamentos de C# e Lógica
 - ✅ Variáveis e tipos
 - ✅ Operadores
-- [ ] Estruturas condicionais (if / switch)
+- ✅ Estruturas condicionais (if / switch)
 - [ ] Estruturas de repetição (for / while)
 - [ ] Métodos
 - [ ] Exercícios de lógica
